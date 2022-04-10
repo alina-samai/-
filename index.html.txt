@@ -1,0 +1,70 @@
+<h1>Bertie's <span>Big</span> Burgers</h1>
+<div id="menu-icon">☰</div>
+<nav class="menu">
+	<span id="close">X</span>
+	<ul>
+		<li>Locations & Hours
+			<ul class="sub-menu">
+				<li>New York City</li>
+				<li>Chicago</li>
+				<li>San Francisco</li>
+				<li>Los Angeles</li>
+				<li>Philadelphia</li>
+				<li>Toronto</li>
+				<li>Vancouver</li>
+			</ul>
+		</li>
+		<li>Menu
+			<ul class="sub-menu grid-2">
+				<li>Burgers
+					<ul>
+						<li>The Big Cheese</li>
+						<li>The Big Veg</li>
+						<li>The Double Big-Big</li>
+						<li>The Big Boss</li>
+						<li>The Little Big</li>
+					</ul>
+				</li>
+				<li>Fries
+					<ul>
+						<li>Classic Fries</li>
+						<li>Seasoned Fries</li>
+						<li>Curly Fries</li>
+						<li>Tater Tots</li>
+					</ul>
+				</li>
+				<li>Salads
+					<ul>
+						<li>The Big 'Burg</li>
+						<li>The Big Ceasar</li>
+						<li>The Giant Garden</li>
+					</ul>
+				</li>
+				<li>Shakes
+					<ul>
+						<li>Big Vanilla</li>
+						<li>Big Chocolate</li>
+						<li>Big Strawberry</li>
+						<li>Big Cookies & Creme</li>
+					</ul>
+				</li>
+			</ul>
+		</li>
+		<li>Takeout & Delivery</li>
+		<li>Catering</li>
+		<li>Join the Big Burger Club</li>
+	</ul>
+</nav>
+<section class="article">
+
+	<img src="https://assets.codepen.io/t-1/lefteris-kallergis-_TLKIVSW6Do-unsplash.jpg" alt="a vegetarian burger with a quinoa patty and lots of vegetable fixins.">
+	<!-- photo by Lefteris kallergis for Unsplash. Full-size image at: https://unsplash.com/photos/_TLKIVSW6Do -->
+	<p>Морковь Lorem ipsum, повышенные скидки. Кто называется менее раздражающим или благословенным, родился и будет рассчитан раз, чтобы открыть эти другие службы, приветствовал офисы некоторых из деленити их желание боли и страданий!</p>
+	<p>Вся боль заключается в том, что опытные люди призваны сделать выбор, который на какое-то время принимается. Вещи, но не его действительно легко из выбранного спортивного бизнеса или за кем вы следите, где есть возможность настройки!</p>
+	<img src="https://assets.codepen.io/t-1/jay-gajjar-vsYCZVef28E.jpg" alt="french fries seasoned with garlic and spices in a brown craft paper container. ">
+	<!-- photo by Jay Gajjar for Unsplash. Full-size image at: https://unsplash.com/photos/vsYCZVef28E -->
+	<p>Считается, что в удовольствии от тела скорбей высказывания - это результирующий долгий взгляд, но он ненавидит, как счастливые времена для некоторых из него! Вроде как хочет ненавидеть за отсутствие доступного источника ненавидит производителей в!</p>
+	<img src="https://assets.codepen.io/t-1/melissa-walker-horn-NkwNp3ho-Qw-unsplash.jpg" alt="a burger, fries, and a beer on a restaurant table. ">
+	<!-- photo by Melissa Walker Horn for Unsplash. Full size image at: https://unsplash.com/photos/NkwNp3ho-Qw -->
+	<p>Последствия профессионального полета легки и часто встречаются? Просто ничего не нужно объяснять, терпит, в том числе предвидит, что нам нужно, отвергает вариант времен, когда их отрасль выгодна, компания предлагает ноль или ненависть?</p>
+</section>
